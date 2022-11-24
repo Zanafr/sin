@@ -1,0 +1,6 @@
+pycryptodome
+libraryArsein
+pyfiglet
+random
+time
+re
